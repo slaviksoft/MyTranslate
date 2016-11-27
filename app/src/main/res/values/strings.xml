@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Translate</string>
+    <string name="label.error.wrong_pairs">Wrong languages pairs. Can\'t translate</string>
+    <string name="label.error.offline">You are offline. Can\'t translate</string>
+    <string name="label.error.select_source">select source language</string>
+    <string name="label.error.select_target">select target language</string>
+    <string name="label.error.text_is_empty">source text is empty</string>
+</resources>

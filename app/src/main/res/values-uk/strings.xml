@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Translate</string>
+    <string name="label.error.wrong_pairs">Не правильна пара мов!</string>
+    <string name="label.error.offline">Ви в офлайн!</string>
+    <string name="label.error.select_source">Не вибрано початкову мову!</string>
+    <string name="label.error.select_target">Не вибрано кінцеву мову!</string>
+    <string name="label.error.text_is_empty">Початковий текст пустий!</string>
+</resources>

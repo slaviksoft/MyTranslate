@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Translate</string>
+    <string name="label.error.wrong_pairs">Неправильная пара языков!</string>
+    <string name="label.error.offline">Вы в оффлайн!</string>
+    <string name="label.error.select_source">Не выбран исходный язык!</string>
+    <string name="label.error.select_target">Не выбран требуемый язык!</string>
+    <string name="label.error.text_is_empty">Исходный текст пустой!</string>
+</resources>
