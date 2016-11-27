@@ -20,7 +20,7 @@ import ua.com.slaviksoft.mytranslate2.Model.Language;
 
 public class GoogleTranslate{
 
-    private String API_KEY = "AIzaSyDdcY11bZp2C3r2UNRmONIsTgp1q22BLks";
+    private String API_KEY = "AIzaSyDdcY11bZp2C3r2UNRmONIsTgp1q22BLks"; //this is wrong - only for demonstrate.
     private String BASE_URL = "https://translation.googleapis.com/language/translate/v2";
 
     //get languages list
